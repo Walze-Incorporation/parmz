@@ -7060,7 +7060,9 @@ Back To Top Section
 
   text-align: center; }
 
-
+.classRow {
+  transition: all 500ms ease-out;
+}
 
 /**
 
